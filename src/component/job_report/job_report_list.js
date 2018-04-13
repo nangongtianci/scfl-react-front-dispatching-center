@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
 import './job_report.css'
 
 // 设定服务器请求路径
